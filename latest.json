@@ -33,5 +33,9 @@
     }
   ],
   "total_sales_amount": 122979623000,
-  "winners_combination": {}
+  "winners_combination": {
+    "auto": 13,
+    "semi_auto": 1,
+    "manual": 2
+  }
 }
