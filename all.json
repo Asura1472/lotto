@@ -48389,5 +48389,52 @@
       "semi_auto": 0,
       "unknown": 0
     }
+  },
+  {
+    "draw_no": 1230,
+    "numbers": [
+      3,
+      8,
+      9,
+      22,
+      28,
+      42
+    ],
+    "bonus_no": 45,
+    "date": "2026-06-27T00:00:00Z",
+    "divisions": [
+      {
+        "prize": 0,
+        "winners": 0
+      },
+      {
+        "prize": 0,
+        "winners": 0
+      },
+      {
+        "prize": 0,
+        "winners": 0
+      },
+      {
+        "prize": 0,
+        "winners": 0
+      },
+      {
+        "prize": 0,
+        "winners": 0
+      }
+    ],
+    "total_sales_amount": 0,
+    "winner_type": {
+      "auto": 0,
+      "manual": 0,
+      "semi_auto": 0
+    },
+    "winners_combination": {
+      "auto": 0,
+      "manual": 0,
+      "semi_auto": 0,
+      "unknown": 0
+    }
   }
 ]
